@@ -1,5 +1,5 @@
 # Tiny Foundation Models
-This repository hosts a collection of tiny foundation models, in hope for efficient experimentation and rapid iteration. 
+This repository offers a list of tiny foundation models, fully compatible with their larger counterparts. It is designed to facilitate efficient experimentation and rapid iteration in model/codebase development.
 
 This collection primarily features foundation models contributed by the community, complemented by a few models I personally trained.
 
